@@ -1,11 +1,26 @@
 # NUmero's Profile
 
-- I'm Android application engineer.  
+I'm Android application engineer.  
 
+<div>
  
 <a href="https://twitter.com/NabeCott">
-  <img src="https://img.shields.io/badge/@NabeCott-121212?style=flat&logo=twitter">
+  <img src="https://img.shields.io/badge/@NabeCott-121212?style=flat&logo=twitter" />
 </a>
+
+<a rel="me" href="https://androiddev.social/@nabe1216">
+　　　　<img src="https://img.shields.io/badge/@NabeCott-121212?style=flat&logo=mastodon" />
+</a>
+
+<a href="https://www.instagram.com/wata.cott/?igshid=OGQ5ZDc2ODk2ZA%3D%3D">
+　　　　<img src="https://img.shields.io/badge/@NabeCott-121212?style=flat&logo=instagram" />
+</a>
+
+<a href="https://www.threads.net/@wata.cott">
+　　　　<img src="https://img.shields.io/badge/Threads@wata.cott-121212?style=flat" />
+</a>
+
+<div>
 
 <br />
 
