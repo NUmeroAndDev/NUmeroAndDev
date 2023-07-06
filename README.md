@@ -12,7 +12,7 @@ I'm Android application engineer.
 　　　　<img src="https://img.shields.io/badge/@NabeCott-121212?style=flat&logo=mastodon" />
 </a>
 
-<a href="https://www.instagram.com/wata.cott/?igshid=OGQ5ZDc2ODk2ZA%3D%3D">
+<a href="https://www.instagram.com/wata.cott">
 　　　　<img src="https://img.shields.io/badge/@NabeCott-121212?style=flat&logo=instagram" />
 </a>
 
